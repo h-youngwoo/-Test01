@@ -7,5 +7,7 @@ public class Hi {
 		System.out.println("우리는 이클립스를 사용합니다.");
 		
 		System.out.println("깃허브 테스트 중입니다.");
+		
+		System.out.println("깃허브 테스트 중입니다.2");
 	}
 }
